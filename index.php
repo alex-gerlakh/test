@@ -1,4 +1,14 @@
-<h1>TEST GITHUB</h1>
-<p>This row from Alex New New New</p><span>Alex</span>
-
-New row
+<div class="sidebar-socials add-class"> <!-- Alex Alex Alex Comment -->
+    <div class="socials-in">
+        <div class="socials-list class">
+            <ul>
+                <li>List 1</li>
+                <li>List 2</li>
+                <li>List 3</li>
+                <li>List 4</li>
+                <li>List 5</li>
+                <li>List 6</li>
+            </ul>
+        </div>
+    </div>
+</div>
