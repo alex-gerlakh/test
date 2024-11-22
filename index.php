@@ -1,6 +1,6 @@
 <div class="sidebar-socials add-class"> <!-- Alex Alex Alex Comment -->
     <div class="socials-in">
-        <div class="socials-list class">
+        <div class="socials-list">
             <ul>
                 <li>List 1</li>
                 <li>List 2</li>
