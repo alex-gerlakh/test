@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2a1c42b-e4ac-4f00-a92a-90666a1bbe28" name="Changes" comment="">
+    <list default="true" id="63193599-1d58-4182-8eba-de2334ed773b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,13 +16,10 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="origin/alex" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="alex" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,31 +38,26 @@
 }</component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\OSPanel\modules\php\PHP_7.4\php.exe" />
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
+  &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2pDBys1TV0wv3fXHMBt15SZRCNY" />
+  <component name="ProjectId" id="2pQMhjBrHyufNIyc9O2qUTOyVCJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/DOMAINS/test",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;alex&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/DOMAINS/test-alex&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\DOMAINS\test" />
-    </key>
-  </component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,13 +69,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b2a1c42b-e4ac-4f00-a92a-90666a1bbe28" name="Changes" comment="" />
-      <created>1732291022707</created>
+      <changelist id="63193599-1d58-4182-8eba-de2334ed773b" name="Changes" comment="" />
+      <created>1732693966901</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1732291022707</updated>
-      <workItem from="1732291023741" duration="360000" />
-      <workItem from="1732887233939" duration="1857000" />
+      <updated>1732693966901</updated>
+      <workItem from="1732693967964" duration="1172000" />
+      <workItem from="1732887238695" duration="1304000" />
     </task>
     <servers />
   </component>
