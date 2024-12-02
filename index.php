@@ -1,4 +1,4 @@
-<div class="sidebar-socials add-class"> <!-- Main Comment -->
+<div class="sidebar-socials add-class"> <!-- Alex Comment -->
     <div class="socials-in">
         <div class="socials-list class1 master-class">
             <ul>
@@ -10,7 +10,7 @@
                 <li>List 6</li>
                 <li>List 7</li>
                 <li>List 8</li>
-                <li>List 9</li>
+                <li>List 10</li>
             </ul>
         </div>
     </div>
